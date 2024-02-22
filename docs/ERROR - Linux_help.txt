@@ -1,0 +1,5 @@
+If running in Ubuntu Linux, and had an error, TRY RUNNING THESE COMMANDS.
+
+sudo chmod -R 777 /opt/lampp/htdocs/
+
+sudo /opt/lampp/lampp start
